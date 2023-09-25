@@ -1,7 +1,7 @@
 ### Olá me chamo Joel Felipe 👋
 
 - 💻 Trabalho com desenvolvimento mobile utilizando o flutter 
-- 📖 Atualmente desenvolvendo meu portifolio <a url='http://www.codexp.dev.br'>codexp.dev</a>
+- 📖 Atualmente desenvolvendo meu portifolio <a href='https://www.codexp.dev.br'>codexp.dev</a>
 - 💬 Inglês intermediário 
 
 <div style="display: inline_block"><br>
